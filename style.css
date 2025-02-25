@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Playfair Display", serif;
 }
 .main{
     background-image: url(https://static.vecteezy.com/system/resources/thumbnails/010/705/525/small/colorful-template-banner-and-background-with-blue-and-white-color-gradient-color-vector.jpg);
@@ -56,16 +56,16 @@ ul li a:hover{
     width: 400px;
     height: 500px;
     position: absolute;
-    left: 400px;
+    left: 300px;
     bottom: 0;
 }
 .image img{
-    height: 700px;
-    width: 500px;
+    height: 600px;
+    width: 450px;
     position: absolute;
-    left: 10%;
+    left: 0%;
     bottom: 0;
-    margin-bottom: 120px;
+    
     transform: translate(-55%);
     bottom: 0;
     transition: left 2s ease;
@@ -107,7 +107,7 @@ ul li a:hover{
     background-position: bottom;
 }
 .col{
-    width: 500px;
+    width: 350px;
     height: 300px;
     background-color: lightblue;
     margin: 20px;
@@ -146,14 +146,14 @@ ul li a:hover{
 }
 /* Awards */
 .card img{
-    height: 500px;
+    height: 400px;
     border-radius: 5px;
 }
 .container{
     display: flex;
 }
 .card{
-    height: 650px;
+    height: 600px;
     margin: 15px;
     box-shadow: 4px 4px 20px rgb(67, 67, 250);
     overflow: hidden;
@@ -161,12 +161,12 @@ ul li a:hover{
 
 .intro{
     height: 70px;
-    width: 300px;
+    width: 250px;
     padding: 6px;
     box-sizing: border-box;
     position: absolute;
     color: black;
-    margin-left: 10px;
+    margin-left: 2px;
 }
 .intro span{
     font-weight: bolder;
